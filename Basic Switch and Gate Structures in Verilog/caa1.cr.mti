@@ -1,0 +1,50 @@
+{D:/school/university/Digital Lagic/CA1/AO2.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA1/AO2.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module AO2
+
+Top level modules:
+	AO2
+
+} {} {}} {D:/school/university/Digital Lagic/CA1/AND1TB.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA1/AND1TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module AND1TB
+
+Top level modules:
+	AND1TB
+
+} {} {}} {D:/school/university/Digital Lagic/CA1/AO1TB.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA1/AO1TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module AO1TB
+
+Top level modules:
+	AO1TB
+
+} {} {}} {D:/school/university/Digital Lagic/CA1/AND1.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA1/AND1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module AND1
+
+Top level modules:
+	AND1
+
+} {} {}} {D:/school/university/Digital Lagic/CA1/AO1.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA1/AO1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module AO1
+
+Top level modules:
+	AO1
+
+} {} {}} {D:/school/university/Digital Lagic/CA1/AND2.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA1/AND2.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module AND2
+
+Top level modules:
+	AND2
+
+} {} {}} {D:/school/university/Digital Lagic/CA1/ANDAOTB.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA1/ANDAOTB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ANDAOTB
+
+Top level modules:
+	ANDAOTB
+
+} {} {}}

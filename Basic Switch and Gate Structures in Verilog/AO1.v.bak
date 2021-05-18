@@ -1,0 +1,16 @@
+`timescale 1ns/1ns
+module AO1(input a,b,c, output w);
+  supply1 vdd;
+  supply0 GND;
+  wire i,j,m,n;
+  pmos #(5,6,7) T1(j,vdd,a);
+  pmos #(5,6,7) T2(j,vdd,b);
+  nmos #(3,4,5) T3(j,i,a);
+  nmos #(3,4,5) T4(i,GND,b);
+  pmos #(5,6,7) T5(m,vdd,n);
+  pmos #(5,6,7) T6(w,m,j);
+  nmos #(3,4,5) T7(w,GND,j);
+  nmos #(3,4,5) T8(w,GND,n);
+  pmos #(5,6,7) T9(n,vdd,c);
+  nmos #(3,4,5) T10(n,GND,c);
+endmodule 
