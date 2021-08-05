@@ -1,0 +1,43 @@
+{D:/school/university/Digital Lagic/CA3/eightbitreg.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA3/eightbitreg.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module eightbitreg
+
+Top level modules:
+	eightbitreg
+
+} {} {}} {D:/school/university/Digital Lagic/CA3/TBDlatch.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA3/TBDlatch.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TBDlatch
+
+Top level modules:
+	TBDlatch
+
+} {} {}} {D:/school/university/Digital Lagic/CA3/SRlatchnand.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA3/SRlatchnand.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SRlatchnand
+
+Top level modules:
+	SRlatchnand
+
+} {} {}} {D:/school/university/Digital Lagic/CA3/Dlatchreset.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA3/Dlatchreset.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Dlatchreset
+
+Top level modules:
+	Dlatchreset
+
+} {} {}} {D:/school/university/Digital Lagic/CA3/Dlatch3.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA3/Dlatch3.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Dlatch3
+
+Top level modules:
+	Dlatch3
+
+} {} {}} {D:/school/university/Digital Lagic/CA3/testSR2.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA3/testSR2.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module testSR2
+
+Top level modules:
+	testSR2
+
+} {} {}}

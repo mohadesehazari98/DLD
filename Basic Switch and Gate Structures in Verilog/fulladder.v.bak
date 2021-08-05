@@ -1,0 +1,9 @@
+`timescale 1ns/1ns
+module fulladder(input ai,bi,c0,output si,c1,pi,gi);
+  wire m , j;
+  XOR1 #(43) G1(j,ai,bi);
+  XOR1 #(43) G2(si,j,c0);
+  AND2 #(13,17) G3(m,ai,bi);
+  AO2 #(19,17) G4(c1,j,c0);
+endmodule 
+  

@@ -1,0 +1,9 @@
+`timescale 1ns/1ns
+module XOR1(input a , b , output w);
+  wire m ,n , i , j;
+  not #(5,7) G1(m,a);
+  not #(5,7) G2(n,b);
+  and #(13,17) G3(i,m,b);
+  and #(13,17) G4(j,n,a);
+  or #(19,17) G5(w,i,j);
+endmodule 

@@ -1,0 +1,102 @@
+{D:/school/university/Digital Lagic/CA6/cosDP.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA6/cosDP.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module cosDP
+
+Top level modules:
+	cosDP
+
+} {} {}} {D:/school/university/Digital Lagic/CA6/treg.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA6/treg.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module treg
+
+Top level modules:
+	treg
+
+} {} {}} {D:/school/university/Digital Lagic/CA6/lookup.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA6/lookup.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module lookup
+
+Top level modules:
+	lookup
+
+} {} {}} {D:/school/university/Digital Lagic/CA6/coscnt.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA6/coscnt.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module coscnt
+
+Top level modules:
+	coscnt
+
+} {} {}} {D:/school/university/Digital Lagic/CA6/repcnt.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA6/repcnt.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module repcnt
+
+Top level modules:
+	repcnt
+
+} {} {}} {D:/school/university/Digital Lagic/CA6/wrapDP.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA6/wrapDP.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module wrapDP
+
+Top level modules:
+	wrapDP
+
+} {} {}} {D:/school/university/Digital Lagic/CA6/xreg.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA6/xreg.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module xreg
+
+Top level modules:
+	xreg
+
+} {} {}} {D:/school/university/Digital Lagic/CA6/multiplier.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA6/multiplier.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} {D:/school/university/Digital Lagic/CA6/multiplx.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA6/multiplx.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module multiplx
+
+Top level modules:
+	multiplx
+
+} {} {}} {D:/school/university/Digital Lagic/CA6/comp.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA6/comp.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module comp
+
+Top level modules:
+	comp
+
+} {} {}} {D:/school/university/Digital Lagic/CA6/ADDorSUB.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA6/ADDorSUB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ADDorSUB
+
+Top level modules:
+	ADDorSUB
+
+} {} {}} {D:/school/university/Digital Lagic/CA6/TB.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA6/TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} {D:/school/university/Digital Lagic/CA6/wrapcnt.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA6/wrapcnt.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module wrapcnt
+
+Top level modules:
+	wrapcnt
+
+} {} {}} {D:/school/university/Digital Lagic/CA6/ca6w.vo} {1 {vlog -work work {D:/school/university/Digital Lagic/CA6/ca6w.vo}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ca6w
+
+Top level modules:
+	ca6w
+
+} {} {}} {D:/school/university/Digital Lagic/CA6/rreg.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA6/rreg.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module rreg
+
+Top level modules:
+	rreg
+
+} {} {}}

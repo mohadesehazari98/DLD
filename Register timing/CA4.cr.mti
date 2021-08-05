@@ -1,0 +1,44 @@
+{D:/school/university/Digital Lagic/CA3/ca3,dld/regmaster.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA3/ca3,dld/regmaster.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module regmaster
+
+Top level modules:
+	regmaster
+
+} {} {}} {D:/school/university/Digital Lagic/CA4/ONETBadder.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA4/ONETBadder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ONETBadder
+
+Top level modules:
+	ONETBadder
+
+} {} {}} {D:/school/university/Digital Lagic/CA4/FOURtstbnch.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA4/FOURtstbnch.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FOURtstbnch
+
+Top level modules:
+	FOURtstbnch
+
+} {} {}} {D:/school/university/Digital Lagic/CA4/ONEadder.v} {2 {vlog -work work {D:/school/university/Digital Lagic/CA4/ONEadder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FOURtstbnch
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+** Warning: (vlog-6) -- Waiting for lock by "ASUS@DESKTOP-7295B93, pid = 1804
+". Lockfile is "D:/school/university/Digital Lagic/CA4/work/_lock".
+
+
+Top level modules:
+	FOURtstbnch
+-- Compiling module ONEadder
+
+Top level modules:
+	ONEadder
+
+} {} {}} {D:/school/university/Digital Lagic/CA4/TWOcounter.v} {1 {vlog -work work {D:/school/university/Digital Lagic/CA4/TWOcounter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TWOcounter
+
+Top level modules:
+	TWOcounter
+
+} {} {}}
