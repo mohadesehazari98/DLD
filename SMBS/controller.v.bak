@@ -1,0 +1,56 @@
+`timescale 1ns/1ns
+module controller(input clk,rst,si,output reg shePL,output reg valid);
+  parameter[2:0] idle=3'b000,getPL=3'b001,getC=3'b010,getdata=3'b011,spacer=3'b100;
+  reg[2:0]ns,ps;
+  reg[5:0]creg;
+  reg[2:0]countout;
+  reg initc,incc,initcdata,inccdata,dc;
+  reg sheC;
+  wire co,czero;
+  reg[5:0]shout;
+  reg[5:0]parout;
+  always@(si,ps)begin
+    ns=idle;
+    {initc,shePL,sheC,incc,valid,dc,inccdata}=7'b0;
+    case(ps)
+      idle: begin ns=si?idle:getPL; initc=1'b1;end
+      getPL: begin ns=co?getC:getPL; shePL=1'b1; initc=co?1'b1:1'b0; incc=1'b1; end
+      getC:begin ns=co?getdata:getC; sheC=1'b1;incc=1'b1; initcdata=czero?1'b1:1'b0;end
+      getdata:begin ns=czero?spacer:getdata; valid=1'b1;dc=1'b1;inccdata=1'b1;end
+      spacer:begin ns=si?idle:getdata; initcdata=si?1:0;end
+      endcase
+    end
+    always@(posedge clk,posedge rst)begin
+      if(rst) ps<=3'b000;
+      else ps<=ns;
+      end
+      // counter 3bit
+    always@(posedge clk,posedge rst)begin
+      if(rst) countout<=3'b000;
+      else if(initc) countout<=3'b001;
+      else if(incc)countout<=countout+1;
+      end
+      assign co=&{countout};
+      //shift register C
+      always@(posedge clk,posedge rst)begin
+       if(rst) creg=3'b0;
+         if(sheC)  creg<={si,creg};
+      end
+      //counter size c
+      always@(posedge clk,posedge rst)begin
+      if(rst) parout<=6'b0;
+    else if(initcdata) parout<=creg;
+      else if(dc) parout<=parout-1;
+        end
+      assign czero=&{~parout};
+        
+    endmodule
+      
+      
+      
+      
+        
+  
+  
+  
+

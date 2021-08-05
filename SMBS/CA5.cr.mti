@@ -1,0 +1,36 @@
+C:/Users/Narges/Desktop/CA5/datapath.v {1 {vlog -work work C:/Users/Narges/Desktop/CA5/datapath.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} C:/Users/Narges/Desktop/CA5/SMBS.v {1 {vlog -work work C:/Users/Narges/Desktop/CA5/SMBS.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SMBS
+
+Top level modules:
+	SMBS
+
+} {} {}} C:/Users/Narges/Desktop/CA5/TB-module.v {1 {vlog -work work C:/Users/Narges/Desktop/CA5/TB-module.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_controller
+
+Top level modules:
+	tb_controller
+
+} {} {}} C:/Users/Narges/Desktop/CA5/TB_1.v {1 {vlog -work work C:/Users/Narges/Desktop/CA5/TB_1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_smbs
+
+Top level modules:
+	tb_smbs
+
+} {} {}} C:/Users/Narges/Desktop/CA5/module.v {1 {vlog -work work C:/Users/Narges/Desktop/CA5/module.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SMBC
+
+Top level modules:
+	SMBC
+
+} {} {}}
