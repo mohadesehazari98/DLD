@@ -1,0 +1,36 @@
+D:/term7/Lab_2/Frequency_Regulator.v {1 {vlog -work work {D:\term7\Lab_2\Frequency_Regulator.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Frequency_Regulator
+
+Top level modules:
+	Frequency_Regulator
+
+} {} {}} D:/term7/Lab_2/TB.v {1 {vlog -work work D:/term7/Lab_2/TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} D:/term7/Lab_2/ring_oscillator.v {1 {vlog -work work D:/term7/Lab_2/ring_oscillator.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ring_oscillator
+
+Top level modules:
+	ring_oscillator
+
+} {} {}} D:/term7/Lab_2/Clock_adjusting.vo {1 {vlog -work work D:/term7/Lab_2/Clock_adjusting.vo
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Clock_adjusting
+
+Top level modules:
+	Clock_adjusting
+
+} {} {}} D:/term7/Lab_2/decode.v {1 {vlog -work work D:/term7/Lab_2/decode.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module decode
+
+Top level modules:
+	decode
+
+} {} {}}

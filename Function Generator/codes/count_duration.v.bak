@@ -1,0 +1,25 @@
+`timescale 1ns/1ns
+module count_duration(input clk , rst , PSI , output duration);
+  reg start, ending ;
+  reg Register,count;
+
+always @(posedge clk, posedge rst) begin : decide_when_to_count_and_count
+if (rst)
+count = 1'b 0;
+else begin
+case (PSI)
+posedge : start=1'b 1;   // zero to one
+1'b 1: count=count+1;       // steady at one
+negedge : ending=1'b 1;  // one to zero
+1'b 0: if(start = 1'b1 && ending=1'b1)   // steady at zero
+      Register=2*counter+2;
+    else if(start = 1'b0 && ending=1'b0)
+      Register = 2*counter;
+      else
+        Register = 2*counter+1;
+      end
+endcase
+end
+end
+assign duration=Register;
+endmodule 

@@ -1,0 +1,113 @@
+D:/term7/lab_3/new/count_8.v {1 {vlog -work work D:/term7/lab_3/new/count_8.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module count_8
+
+Top level modules:
+	count_8
+
+} {} {}} D:/term7/lab_3/new/count_9.v {1 {vlog -work work D:/term7/lab_3/new/count_9.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module count_9
+
+Top level modules:
+	count_9
+
+} {} {}} D:/term7/lab_3/new/square.v {1 {vlog -work work D:/term7/lab_3/new/square.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module square
+
+Top level modules:
+	square
+
+} {} {}} D:/term7/lab_3/new/sawtooth.v {1 {vlog -work work D:/term7/lab_3/new/sawtooth.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sawtooth
+
+Top level modules:
+	sawtooth
+
+} {} {}} D:/term7/lab_3/new/mux_2_1.v {1 {vlog -work work D:/term7/lab_3/new/mux_2_1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux_2_1
+
+Top level modules:
+	mux_2_1
+
+} {} {}} D:/term7/lab_3/new/rhomboid.v {1 {vlog -work work D:/term7/lab_3/new/rhomboid.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module rhomboid
+
+Top level modules:
+	rhomboid
+
+} {} {}} D:/term7/lab_3/new/full_wave.v {1 {vlog -work work D:/term7/lab_3/new/full_wave.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module full_wave
+
+Top level modules:
+	full_wave
+
+} {} {}} D:/term7/lab_3/new/TB.v {1 {vlog -work work D:/term7/lab_3/new/TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} D:/term7/lab_3/new/sine.v {1 {vlog -work work D:/term7/lab_3/new/sine.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sine
+
+Top level modules:
+	sine
+
+} {} {}} D:/term7/lab_3/new/for_SW.v {1 {vlog -work work D:/term7/lab_3/new/for_SW.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module for_SW
+
+Top level modules:
+	for_SW
+
+} {} {}} D:/term7/lab_3/new/mux_7_1.v {1 {vlog -work work D:/term7/lab_3/new/mux_7_1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux_7_1
+
+Top level modules:
+	mux_7_1
+
+} {} {}} D:/term7/lab_3/new/one_three.v {1 {vlog -work work D:/term7/lab_3/new/one_three.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module one_three
+
+Top level modules:
+	one_three
+
+} {} {}} D:/term7/lab_3/new/Lab_3_project.vo {1 {vlog -work work D:/term7/lab_3/new/Lab_3_project.vo
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Lab_3_project
+
+Top level modules:
+	Lab_3_project
+
+} {} {}} D:/term7/lab_3/new/triangle.v {1 {vlog -work work D:/term7/lab_3/new/triangle.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module triangle
+
+Top level modules:
+	triangle
+
+} {} {}} D:/term7/lab_3/new/final_TB.v {1 {vlog -work work D:/term7/lab_3/new/final_TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module final_TB
+
+Top level modules:
+	final_TB
+
+} {} {}} D:/term7/lab_3/new/modulated.v {1 {vlog -work work D:/term7/lab_3/new/modulated.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module modulated
+
+Top level modules:
+	modulated
+
+} {} {}}

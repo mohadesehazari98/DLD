@@ -1,0 +1,22 @@
+D:/term7/DLD_lab/counter_quartus/F_devider_Q.vo {1 {vlog -work work D:/term7/DLD_lab/counter_quartus/F_devider_Q.vo
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module F_devider_Q
+
+Top level modules:
+	F_devider_Q
+
+} {} {}} D:/term7/DLD_lab/counter_quartus/TB_fdevid.v {1 {vlog -work work {D:\term7\DLD_lab\counter_quartus\TB_fdevid.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB_fdevid
+
+Top level modules:
+	TB_fdevid
+
+} {} {}} D:/term7/DLD_lab/counter_quartus/Ring.v {1 {vlog -work work D:/term7/DLD_lab/counter_quartus/Ring.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Ring
+
+Top level modules:
+	Ring
+
+} {} {}}
