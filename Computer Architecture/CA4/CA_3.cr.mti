@@ -1,0 +1,81 @@
+D:/term8/CA/CA_3/Memory.v {0 {vlog -work work D:/term8/CA/CA_3/Memory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Memory
+** Error: D:/term8/CA/CA_3/Memory.v(3): near ".": syntax error, unexpected '.'
+
+} {4.0 5.0} {}} D:/term8/CA/CA_3/I.v {1 {vlog -work work D:/term8/CA/CA_3/I.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module I
+
+Top level modules:
+	I
+
+} {} {}} D:/term8/CA/CA_3/AlUop.v {1 {vlog -work work D:/term8/CA/CA_3/AlUop.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module AlUop
+
+Top level modules:
+	AlUop
+
+} {} {}} D:/term8/CA/CA_3/MUX_2_8.v {1 {vlog -work work D:/term8/CA/CA_3/MUX_2_8.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX_2_8
+
+Top level modules:
+	MUX_2_8
+
+} {} {}} D:/term8/CA/CA_3/MUX_2.v {1 {vlog -work work D:/term8/CA/CA_3/MUX_2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX_2
+
+Top level modules:
+	MUX_2
+
+} {} {}} D:/term8/CA/CA_3/MUX_3.v {1 {vlog -work work D:/term8/CA/CA_3/MUX_3.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX_3
+
+Top level modules:
+	MUX_3
+
+} {} {}} D:/term8/CA/CA_3/Stack.v {0 {vlog -work work D:/term8/CA/CA_3/Stack.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Stack
+** Error: D:/term8/CA/CA_3/Stack.v(3): near ".": syntax error, unexpected '.'
+
+} {4.0 5.0} {}} D:/term8/CA/CA_3/Reg_A.v {1 {vlog -work work D:/term8/CA/CA_3/Reg_A.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg_A
+
+Top level modules:
+	Reg_A
+
+} {} {}} D:/term8/CA/CA_3/PC.v {1 {vlog -work work D:/term8/CA/CA_3/PC.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} D:/term8/CA/CA_3/AlUR.v {1 {vlog -work work D:/term8/CA/CA_3/AlUR.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module AlUR
+
+Top level modules:
+	AlUR
+
+} {} {}} D:/term8/CA/CA_3/Controller.v {1 {vlog -work work D:/term8/CA/CA_3/Controller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} D:/term8/CA/CA_3/TB.v {1 {vlog -work work D:/term8/CA/CA_3/TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}}
